@@ -4,7 +4,7 @@ export default StyleSheet.create({
   text: {
     flex: 1,
     fontSize: 12,
-    lineHeight: 16,
+    lineHeight: 20,
     backgroundColor: 'transparent',
     paddingVertical: 2,
     textAlign: 'left',
